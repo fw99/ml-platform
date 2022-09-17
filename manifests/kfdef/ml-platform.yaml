@@ -122,6 +122,6 @@ spec:
     - name: kf-manifests
       uri: https://github.com/kubeflow/manifests/archive/v1.2-branch.tar.gz
     - name: manifests
-      uri: https://github.com/fw99/ml-platform/tarball/main
+      uri: https://github.com/fw99/ml-platform/tarball/master
   version: master
 
